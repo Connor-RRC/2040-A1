@@ -1,0 +1,1001 @@
+Gender,Age,Course,CGPA,Depression
+Female,24,Biotechnology,2.38,1
+Female,18,Biotechnology,4,0
+Female,25,Biotechnology,3.68,0
+Female,18,Engineering,4,0
+Female,20,Engineering,2,1
+Female,19,Engineering,4,0
+Female,25,Communication ,2,1
+Female,24,Diploma Nursing,2.72,0
+Female,24,Pendidikan Islam ,2.3,0
+Female,19,Engineering,4,1
+Female,21,Pendidikan Islam ,4,1
+Female,18,Diploma Nursing,2,1
+Female,20,Engineering,4,1
+Male,23,Radiography,2,0
+Male,23,Radiography,2.84,0
+Female,18,psychology,3.28,1
+Female,19,Fiqh fatwa ,4,1
+Female,20,Fiqh fatwa ,2.12,0
+Female,25,psychology,2,1
+Female,21,psychology,4,0
+Male,24,BIT,2.59,0
+Male,23,BIT,4,1
+Male,25,BIT,3.98,0
+Male,18,Engineering,4,0
+Male,20,Engineering,3.51,1
+Male,25,Engineering,2,1
+Male,19,Engineering,2,1
+Female,19,DIPLOMA TESL,3.12,1
+Female,22,DIPLOMA TESL,4,1
+Male,23,Koe,2,0
+Male,22,Koe,2.89,0
+Male,18,Koe,2,0
+Male,20,Koe,2,0
+Male,20,Koe,2,1
+Female,20,KOE,4,0
+Female,19,KOE,2,0
+Female,20,KOE,4,0
+Female,22,BENL,2,1
+Female,25,Fiqh,4,1
+Female,20,Fiqh,4,1
+Female,22,Fiqh,3.38,0
+Female,18,Islamic Education,3.61,0
+Female,22,Islamic Education,3.77,0
+Female,23,Islamic Education,3.47,1
+Female,21,BCS,2.58,1
+Female,25,BCS,3.36,0
+Male,20,Engineering,2.89,1
+Male,18,Engineering,4,1
+Male,21,Engineering,3.5,1
+Male,21,Engineering,2.38,0
+Female,25,Nursing ,4,1
+Female,25,Nursing ,3.39,1
+Female,24,Nursing ,4,0
+Female,20,Nursing ,3.95,0
+Female,22,Nursing ,4,0
+Female,25,Nursing ,2,1
+Female,23,Pendidikan Islam,3.25,0
+Female,23,Pendidikan Islam,3.12,1
+Male,20,Biomedical science,2,0
+Female,18,Engineering,3.25,1
+Female,22,Engineering,2,0
+Female,21,Engineering,2,1
+Female,21,Engineering,4,0
+Male,21,Islamic education,4,0
+Male,22,Islamic education,2.75,0
+Male,18,Islamic education,4,0
+Male,23,BIT,2.77,1
+Female,22,Laws,3.3,1
+Female,21,Laws,3.96,1
+Female,21,Laws,2,0
+Female,18,Laws,4,1
+Male,23,Mathemathics,2,0
+Male,21,Mathemathics,2.9,1
+Male,20,Mathemathics,4,1
+Male,24,Engineering,2.43,0
+Male,20,Engineering,2,0
+Female,23,Pendidikan islam,3.77,1
+Female,22,Pendidikan islam,4,1
+Female,20,Pendidikan islam,3.65,0
+Female,20,Pendidikan islam,4,1
+Female,24,BCS,2.42,0
+Female,19,Human Resources,2,0
+Female,18,Human Resources,4,0
+Female,18,Human Resources,4,0
+Female,19,Human Resources,4,0
+Male,18,Irkhs,2.61,0
+Female,20,Psychology,2,0
+Female,23,Engineering,2,1
+Male,23,Irkhs,2.91,1
+Female,18,Engineering,4,0
+Male,20,Irkhs,4,1
+Female,21,BCS,4,1
+Female,19,BCS,4,1
+Male,19,Engineering,2,0
+Male,22,Engineering,3.53,1
+Male,22,Engineering,4,1
+Male,25,Engineering,2.28,0
+Male,18,Engineering,3.65,0
+Male,24,Engineering,3.64,1
+Male,22,Engineering,2.15,0
+Male,22,Engineering,2.69,0
+Male,24,BCS,2,0
+Male,20,BCS,2.83,0
+Male,18,BCS,4,0
+Female,19,KENMS,4,0
+Female,24,KENMS,2.49,0
+Female,24,Accounting ,3.35,0
+Female,21,ENM,4,1
+Female,18,ENM,3.32,1
+Female,20,BIT,4,0
+Female,18,Marine science,2.72,1
+Female,20,Marine science,2,0
+Female,22,Marine science,2.71,1
+Female,19,Marine science,2.42,0
+Female,18,Marine science,2.77,0
+Female,21,Engineering,4,0
+Female,25,Engineering,3.09,1
+Female,20,Engineering,2.61,0
+Female,23,BCS,2,1
+Female,24,Engineering,4,0
+Female,24,Engineering,3.46,0
+Female,20,Engineering,2,0
+Female,24,Engineering,3.46,0
+Female,24,BCS,2.69,1
+Female,19,BCS,4,1
+Female,23,BCS,3.7,1
+Female,20,Banking Studies,2,0
+Female,19,Engineering,2,0
+Female,18,Engineering,2.7,0
+Female,20,Engineering,4,1
+Female,20,Engineering,4,1
+Female,20,Engineering,3.72,1
+Male,18,Engineering,4,1
+Male,25,Engineering,2.89,0
+Male,23,Engineering,4,0
+Male,22,Engineering,4,1
+Female,24,BIT,2.93,1
+Female,22,BIT,2.79,1
+Female,24,BCS,3.14,0
+Female,25,BCS,4,1
+Female,22,BCS,2,1
+Female,18,Business Administration,2,0
+Female,20,Business Administration,3.43,0
+Female,20,Business Administration,4,0
+Female,21,Business Administration,2.16,0
+Male,23,BCS,2.85,0
+Male,23,BCS,4,0
+Male,25,BCS,4,0
+Male,25,BCS,3.01,1
+Male,20,BCS,4,1
+Male,23,BCS,3.38,0
+Male,23,BCS,2,0
+Male,21,BCS,3.66,0
+Male,24,BCS,3.09,1
+Female,23,BIT,4,1
+Female,24,BIT,2,0
+Female,21,BIT,3.49,0
+Female,18,BIT,4,1
+Female,24,BIT,4,1
+Female,19,BIT,4,0
+Female,23,BIT,4,0
+Female,25,BIT,4,0
+Female,23,BIT,2,1
+Female,22,Engineering,2,1
+Female,21,Law,4,0
+Female,21,Law,4,0
+Female,19,BIT,4,1
+Female,20,BIT,2,0
+Female,20,BIT,2,0
+Female,23,KIRKHS,4,0
+Female,20,KIRKHS,2.66,0
+Female,19,KIRKHS,4,0
+Female,25,Engineering,2,0
+Female,21,Engineering,4,0
+Female,21,Engineering,3.16,1
+Female,21,Engineering,2.08,0
+Female,24,Engineering,4,1
+Female,25,BIT,2,0
+Female,19,BIT,2,1
+Female,19,Usuluddin ,3.06,1
+Female,18,Usuluddin ,2.52,0
+Male,24,BIT,2,0
+Male,25,TAASL,2.85,0
+Male,24,TAASL,4,1
+Male,23,TAASL,2.36,1
+Male,21,BCS,3.58,0
+Male,23,BCS,2,1
+Male,22,BCS,2.15,1
+Male,19,BCS,4,1
+Female,23,Engineering,2,1
+Female,22,Engineering,4,0
+Female,18,Engineering,2,0
+Female,18,Engineering,2.86,1
+Male,24,BCS,2.32,1
+Female,24,Engine,4,0
+Male,21,BCS,3.54,0
+Female,19,Engine,4,1
+Female,21,BCS,4,1
+Female,21,BCS,2.26,1
+Female,23,BCS,3,1
+Female,20,Biomedical science,3.34,0
+Female,21,Biomedical science,2.45,1
+Female,20,Biomedical science,2,0
+Female,19,Biomedical science,4,0
+Female,21,koe,3.67,1
+Female,23,koe,2.49,1
+Female,18,BCS,4,1
+Female,18,BCS,3.06,1
+Female,20,BCS,3.01,0
+Male,23,BCS,3.71,0
+Male,22,BCS,4,0
+Male,19,Kirkhs,4,1
+Male,24,Kirkhs,4,1
+Female,19,BENL,3.36,0
+Female,19,BCS,2.66,0
+Female,18,CTS,3.83,0
+Female,23,CTS,4,1
+Female,25,CTS,3.87,0
+Female,22,CTS,2.75,0
+Female,18,CTS,4,1
+Female,19,CTS,2,1
+Female,25,CTS,2,0
+Female,18,engin,2,1
+Female,19,engin,2,0
+Female,23,engin,4,0
+Female,22,Engine,3.36,1
+Female,22,Engine,2.41,1
+Female,24,Engine,4,1
+Female,25,Econs,2,0
+Female,19,Econs,4,0
+Female,23,KOE,2,1
+Male,19,MHSC,2.43,1
+Female,21,Malcom,4,0
+Female,18,Malcom,4,0
+Female,23,Malcom,2.13,1
+Female,24,Kop,4,1
+Female,24,Biomedical science,4,0
+Female,19,Biomedical science,4,0
+Female,18,Laws,4,0
+Female,24,Laws,2.94,0
+Female,19,BIT,2,1
+Female,24,BIT,2.63,1
+Male,21,BIT,3.04,0
+Male,20,BIT,4,0
+Male,18,BIT,4,0
+Male,24,BIT,4,0
+Male,24,BIT,2,1
+Female,23,KOE,4,0
+Female,21,KOE,4,1
+Female,25,Engineering,2.58,0
+Female,21,Engineering,2.82,1
+Female,25,Engineering,3.28,1
+Female,18,Human Sciences ,2.39,0
+Female,23,Human Sciences ,3.83,1
+Female,21,Human Sciences ,3.97,1
+Female,21,Human Sciences ,3.71,1
+Female,19,Biotechnology,2.82,0
+Female,23,Biotechnology,3.03,1
+Female,19,Biotechnology,2,1
+Female,21,Engineering,4,1
+Female,20,Engineering,2,0
+Female,21,Engineering,2.74,0
+Female,19,Engineering,2.42,0
+Female,23,Engineering,4,1
+Female,24,Communication ,4,1
+Female,25,Communication ,2,1
+Female,24,Communication ,3.37,1
+Female,22,Communication ,2,0
+Female,24,Communication ,2.23,0
+Female,18,Diploma Nursing,2.71,1
+Female,23,Pendidikan Islam ,4,1
+Female,23,Pendidikan Islam ,3.25,0
+Female,24,Pendidikan Islam ,2.94,0
+Female,24,Pendidikan Islam ,2.63,0
+Female,21,Diploma Nursing,2.99,0
+Male,18,Radiography,2.76,0
+Male,22,Radiography,3.67,1
+Female,20,psychology,2,1
+Female,24,psychology,4,0
+Female,19,Fiqh fatwa ,3.18,0
+Female,25,Fiqh fatwa ,3.27,0
+Female,19,psychology,4,0
+Male,24,Engineering,4,1
+Male,18,Engineering,2,1
+Female,23,DIPLOMA TESL,3.12,0
+Female,20,DIPLOMA TESL,4,1
+Female,25,DIPLOMA TESL,2,1
+Male,20,Koe,3.63,0
+Male,20,Koe,2,0
+Female,22,KOE,2,0
+Female,18,BENL,2,1
+Female,23,BENL,2.32,0
+Female,21,BENL,2.08,0
+Female,24,BENL,3.45,1
+Female,25,BENL,2,1
+Female,21,Fiqh,2.09,0
+Female,22,Fiqh,4,1
+Female,18,BCS,2.18,0
+Female,18,BCS,4,0
+Female,25,BCS,4,0
+Female,23,BCS,2.99,1
+Female,19,BCS,4,1
+Female,21,BCS,2.04,0
+Male,18,Engineering,2.05,1
+Male,19,Engineering,2,1
+Male,21,Engineering,3.22,1
+Male,21,Engineering,2,1
+Female,19,Pendidikan Islam,2.64,1
+Male,19,Biomedical science,2,0
+Female,18,Engineering,3.96,0
+Female,21,Engineering,2,1
+Male,20,Islamic education,2.53,1
+Male,18,BIT,2.74,1
+Female,18,Laws,2.9,0
+Female,25,Laws,2.83,1
+Female,21,Laws,2,0
+Female,21,Laws,3.24,1
+Male,19,Mathemathics,4,1
+Male,19,Engineering,3.71,0
+Female,21,Pendidikan islam,2.06,1
+Female,25,Pendidikan islam,4,0
+Female,18,BCS,3.6,0
+Female,21,Human Resources,2.31,0
+Male,25,Irkhs,3.44,1
+Male,21,Irkhs,4,0
+Female,18,Engineering,3.6,1
+Female,18,Psychology,3.11,0
+Female,22,Psychology,3.11,0
+Female,24,Psychology,2.65,0
+Female,22,Engineering,3.73,1
+Male,24,Irkhs,2,0
+Female,21,Psychology,3.74,1
+Female,18,Psychology,3.81,1
+Female,18,BCS,4,1
+Female,20,BCS,4,1
+Female,22,BCS,2.74,0
+Female,22,BCS,3.37,1
+Male,23,Engineering,2.14,1
+Male,23,Engineering,3.12,0
+Female,18,KENMS,2,0
+Female,23,KENMS,2,0
+Female,22,Accounting ,2,0
+Female,20,Accounting ,2.47,0
+Female,24,ENM,3.86,1
+Female,21,ENM,2,1
+Female,19,ENM,3.08,0
+Female,24,ENM,4,0
+Female,24,BIT,2.41,0
+Female,22,BIT,3.43,1
+Female,18,Marine science,2.79,1
+Female,22,Marine science,3.71,1
+Female,21,Marine science,2.88,0
+Female,23,Marine science,2,0
+Female,24,Engineering,2,0
+Female,19,KOE,3,1
+Female,25,BCS,3.91,1
+Female,24,KOE,2,0
+Female,18,BCS,4,0
+Female,23,KOE,3.21,1
+Female,24,BCS,2,0
+Female,24,BCS,4,1
+Female,25,BCS,2.39,1
+Female,19,BCS,4,0
+Female,20,Engineering,4,1
+Female,24,BCS,2.63,1
+Female,20,BCS,3.75,1
+Female,18,BCS,2.47,0
+Female,21,Banking Studies,4,1
+Female,24,Engineering,4,0
+Male,23,Engineering,2.76,0
+Male,18,Engineering,4,0
+Male,25,Engineering,4,1
+Female,25,BIT,4,1
+Female,20,BIT,2.19,0
+Female,21,BIT,2.85,1
+Female,18,BCS,3.69,0
+Female,25,BCS,2,1
+Female,22,BCS,2,0
+Female,22,Business Administration,2.26,0
+Female,25,Business Administration,2.03,0
+Female,19,Business Administration,3.22,1
+Male,18,BCS,4,0
+Male,22,BCS,2.63,0
+Male,21,BCS,2,1
+Male,25,BCS,3.3,1
+Male,18,BCS,3.94,1
+Male,24,BCS,2,0
+Male,25,BCS,4,0
+Male,25,BCS,4,0
+Male,23,BCS,2,0
+Male,18,BCS,3.56,0
+Female,23,BIT,4,0
+Female,23,BIT,4,1
+Female,18,Engineering,2.91,0
+Female,18,Engineering,3.49,1
+Female,18,Law,4,1
+Female,22,Law,4,1
+Female,23,Law,4,1
+Female,23,BIT,2.3,1
+Female,21,BIT,3.64,1
+Female,20,BIT,4,0
+Female,23,KIRKHS,4,1
+Female,19,KIRKHS,2,1
+Female,24,Engineering,2.34,0
+Female,22,Engineering,3.36,1
+Female,20,Engineering,2,0
+Female,24,Engineering,3.12,0
+Female,22,Engineering,4,0
+Female,24,BIT,2.8,0
+Female,18,BIT,3.31,1
+Female,20,BIT,3.62,1
+Female,20,Usuluddin ,4,0
+Female,22,Usuluddin ,4,1
+Male,21,BIT,4,0
+Male,21,BIT,4,0
+Male,23,BIT,2.29,0
+Male,19,TAASL,2.9,0
+Male,18,TAASL,2,0
+Male,18,BCS,4,0
+Male,18,BCS,4,0
+Male,19,BCS,2.21,0
+Male,21,BCS,3.09,1
+Female,23,Engineering,2,1
+Female,18,Engine,3.21,0
+Female,21,Engine,2,0
+Female,24,Engine,4,1
+Male,24,BCS,4,0
+Male,22,BCS,3.03,1
+Female,25,Engine,2.19,1
+Female,25,BCS,4,1
+Female,24,BCS,2.72,1
+Female,21,BCS,2,0
+Female,22,BCS,2.3,1
+Female,25,BCS,4,1
+Female,24,ALA,3.64,0
+Female,24,ALA,4,0
+Female,24,ALA,2,0
+Female,24,ALA,2.04,1
+Female,19,BCS,4,0
+Female,23,BCS,2,0
+Female,18,BCS,2.87,1
+Female,21,BCS,2,1
+Female,18,BCS,4,1
+Female,19,Biomedical science,2.16,0
+Female,20,Biomedical science,4,1
+Female,25,BCS,2.54,0
+Female,25,BCS,3.51,1
+Female,21,BCS,4,1
+Female,25,BCS,2,0
+Male,22,Kirkhs,2,0
+Male,21,Kirkhs,3.66,0
+Female,20,BENL,2,1
+Female,23,BENL,4,0
+Female,20,BENL,4,0
+Female,18,BCS,4,0
+Female,20,BCS,2.68,0
+Female,24,BCS,4,1
+Female,23,BCS,3.46,1
+Female,20,BCS,3.45,0
+Female,19,BCS,2.41,1
+Female,25,BCS,2.15,0
+Female,23,Benl,4,0
+Female,18,IT,4,0
+Female,24,IT,2.42,1
+Female,23,IT,4,1
+Female,21,IT,3.87,1
+Female,19,BCS,4,0
+Female,23,CTS,3.4,0
+Female,18,CTS,4,0
+Female,24,CTS,3.29,0
+Female,24,engin,2.71,0
+Female,23,engin,2,0
+Female,25,engin,4,0
+Female,25,engin,2,1
+Female,18,engin,2.75,1
+Female,21,Engine,2,1
+Female,20,Econs,3.85,0
+Female,23,Econs,3.05,0
+Female,18,KOE,4,0
+Female,23,KOE,2.77,0
+Female,24,KOE,4,0
+Female,24,KOE,2,0
+Female,22,KOE,3.65,0
+Female,19,KOE,3.7,0
+Female,25,KOE,2.66,1
+Female,18,KOE,2,0
+Female,22,KOE,4,1
+Male,19,MHSC,4,1
+Male,23,MHSC,2.25,1
+Male,22,MHSC,4,0
+Female,18,Malcom,4,1
+Female,18,Malcom,2.65,0
+Female,18,Malcom,4,0
+Female,25,Kop,3.91,0
+Female,23,Laws,2.29,0
+Female,22,Laws,2.56,0
+Female,22,Laws,2.98,1
+Female,25,Laws,2,0
+Female,25,BIT,4,1
+Male,24,Biomedical science,3.35,1
+Male,24,BIT,3.13,0
+Male,25,BIT,4,0
+Male,18,BIT,4,0
+Female,20,KOE,4,1
+Female,18,Engineering,4,1
+Female,25,Human Sciences ,4,1
+Female,18,Human Sciences ,2.04,1
+Female,23,Human Sciences ,4,0
+Female,25,Biotechnology,2,0
+Female,20,Engineering,2.97,1
+Female,19,Engineering,4,1
+Female,25,Communication ,2,1
+Female,20,Communication ,2.59,1
+Female,20,Communication ,3.28,0
+Female,22,Communication ,4,0
+Female,19,Engineering,2.55,1
+Female,19,Pendidikan Islam ,2,0
+Female,23,Pendidikan Islam ,4,1
+Female,23,Engineering,4,1
+Female,22,Diploma Nursing,2.73,1
+Female,22,Diploma Nursing,4,0
+Female,19,Pendidikan Islam ,3.49,0
+Male,24,Radiography,4,0
+Male,20,Radiography,2,1
+Male,18,Radiography,4,0
+Female,20,psychology,2.75,0
+Female,21,psychology,2.08,1
+Female,25,Fiqh fatwa ,2,1
+Female,20,Fiqh fatwa ,2.26,0
+Female,19,Fiqh fatwa ,4,1
+Female,19,psychology,4,1
+Male,23,BIT,2,0
+Male,19,BIT,4,1
+Male,18,BIT,2,0
+Male,22,BIT,2.34,1
+Male,19,Engineering,2.78,1
+Female,23,DIPLOMA TESL,3.28,0
+Female,20,DIPLOMA TESL,2.39,1
+Male,24,Koe,4,1
+Male,25,Koe,2,0
+Male,23,Koe,4,1
+Female,19,KOE,3.46,1
+Female,18,KOE,3.55,0
+Female,24,Fiqh,2,0
+Female,25,Fiqh,3.29,1
+Female,21,Fiqh,4,0
+Female,20,Fiqh,3.92,0
+Female,22,Fiqh,4,0
+Female,25,Islamic Education,4,1
+Female,21,BCS,2.71,0
+Female,21,BCS,3.98,0
+Male,19,Engineering,4,1
+Male,21,Engineering,2.22,0
+Male,24,Engineering,2.2,0
+Male,18,Engineering,4,0
+Female,19,Nursing ,3.4,1
+Female,22,Nursing ,4,1
+Female,25,Nursing ,3.24,0
+Female,18,Nursing ,3.61,0
+Female,20,Nursing ,2,0
+Female,19,Nursing ,2,1
+Female,23,Pendidikan Islam,3.48,0
+Male,21,Biomedical science,3.64,1
+Male,23,Biomedical science,4,1
+Female,25,Engineering,3.57,1
+Female,22,Engineering,4,0
+Female,20,Engineering,4,0
+Female,22,Engineering,2.38,1
+Male,23,Islamic education,2.86,1
+Male,21,Islamic education,4,1
+Male,24,Islamic education,2.54,0
+Male,20,Islamic education,4,0
+Male,24,BIT,2.96,0
+Male,22,BIT,2.64,1
+Male,23,BIT,4,1
+Male,24,Mathemathics,2.12,0
+Male,18,Mathemathics,2.27,0
+Male,19,Engineering,4,0
+Female,19,Pendidikan islam,2,1
+Female,24,Pendidikan islam,3.01,1
+Female,22,Pendidikan islam,2.89,1
+Female,18,Pendidikan islam,4,0
+Female,24,BCS,2.79,0
+Female,25,BCS,2,1
+Female,24,BCS,2,1
+Female,24,Human Resources,2.19,0
+Female,25,Human Resources,4,0
+Female,18,Human Resources,4,0
+Female,25,Human Resources,2.64,0
+Male,20,Irkhs,3.06,0
+Female,20,Engineering,2.93,1
+Male,20,Irkhs,4,1
+Male,21,Irkhs,2,0
+Female,18,BCS,3.95,1
+Female,19,BCS,2,0
+Male,21,Engineering,4,1
+Male,22,Engineering,2,0
+Male,20,BCS,4,1
+Male,20,BCS,4,1
+Male,18,BCS,2.1,0
+Female,18,Accounting ,3.75,0
+Female,22,Accounting ,4,0
+Female,24,Accounting ,4,0
+Female,18,Accounting ,2.17,0
+Female,25,Accounting ,2.61,1
+Female,24,ENM,4,1
+Female,20,BIT,4,1
+Female,19,BIT,3.6,0
+Female,22,BIT,4,0
+Female,18,BIT,2.99,1
+Female,25,Marine science,2.72,0
+Female,23,Marine science,4,0
+Female,24,Marine science,2.86,1
+Female,19,Engineering,4,0
+Female,18,Engineering,2.4,0
+Female,21,Engineering,2.53,0
+Female,25,Engineering,2.33,0
+Female,23,Engineering,2,1
+Female,18,KOE,3.95,0
+Female,24,BCS,4,0
+Female,23,BCS,4,1
+Female,24,KOE,2,0
+Female,25,Engineering,4,0
+Female,22,Engineering,2.1,1
+Female,23,BCS,3.84,1
+Female,18,BCS,3.44,1
+Female,24,BCS,2,1
+Female,18,Banking Studies,2.49,0
+Female,18,Engineering,2.75,0
+Female,21,Engineering,4,1
+Male,25,Engineering,2,1
+Male,23,Engineering,2.81,0
+Male,25,Engineering,2.76,1
+Female,23,BIT,2.45,1
+Female,24,BCS,3.67,0
+Female,20,BCS,2.78,1
+Female,24,BCS,2.22,0
+Female,23,Business Administration,2.18,0
+Female,19,Business Administration,2,1
+Female,18,Business Administration,3.29,1
+Male,19,BCS,2,0
+Male,20,BCS,3.05,1
+Male,19,BCS,4,0
+Male,18,BCS,3.28,1
+Male,25,BCS,2.22,0
+Male,23,BCS,4,0
+Female,19,BIT,4,1
+Female,25,BIT,4,0
+Female,20,BIT,4,0
+Female,23,Law,3.36,1
+Female,25,Law,2,0
+Female,23,Law,3.59,0
+Female,21,Law,2,1
+Female,19,Law,2,1
+Female,19,BIT,4,1
+Female,22,BIT,2.17,1
+Female,19,BIT,4,0
+Female,22,BIT,3.51,0
+Female,18,BIT,3.85,0
+Female,18,KIRKHS,2,0
+Female,23,KIRKHS,2.12,1
+Female,23,KIRKHS,3.91,1
+Female,24,KIRKHS,2,1
+Female,19,KIRKHS,4,1
+Female,24,Engineering,3.69,1
+Female,23,Engineering,3.88,0
+Female,19,Engineering,2.29,0
+Female,18,Engineering,3.15,0
+Female,21,Engineering,2.17,1
+Female,18,Usuluddin ,3.8,0
+Female,18,Usuluddin ,4,1
+Female,20,Usuluddin ,2.56,1
+Female,25,Usuluddin ,4,1
+Male,18,BIT,3.76,1
+Male,23,TAASL,3,0
+Male,22,BCS,3.06,1
+Female,19,Engineering,4,0
+Female,23,Engineering,4,1
+Female,19,Engineering,2,0
+Female,24,Engineering,4,0
+Female,23,Engineering,2,0
+Female,20,Engineering,3.45,0
+Female,25,Engineering,3.26,1
+Male,19,BCS,4,1
+Female,18,Engine,2,1
+Male,22,BCS,2.86,1
+Female,24,BCS,2,0
+Female,25,BCS,2.69,1
+Female,20,BCS,4,1
+Female,24,BCS,3.23,1
+Female,18,ALA,4,0
+Female,18,BCS,3.72,0
+Female,18,BCS,4,1
+Female,20,Biomedical science,2.35,0
+Female,20,koe,4,1
+Male,20,BCS,4,0
+Male,18,BCS,4,1
+Male,23,Kirkhs,3.18,0
+Male,21,Kirkhs,3.87,1
+Male,20,Kirkhs,4,0
+Male,20,Kirkhs,3.43,1
+Male,25,Kirkhs,4,0
+Male,25,Kirkhs,4,1
+Female,25,BENL,4,0
+Female,23,BENL,4,1
+Female,19,BENL,2,0
+Female,21,BCS,2.98,0
+Female,24,BCS,3.59,0
+Female,22,Benl,2.29,1
+Female,21,IT,4,0
+Female,19,IT,4,1
+Female,18,Benl,2,1
+Female,20,Benl,2,0
+Female,22,Benl,3.72,0
+Female,25,BCS,2,1
+Female,19,BCS,2.1,0
+Female,25,BCS,4,0
+Female,18,CTS,4,0
+Female,25,CTS,3.32,0
+Female,19,engin,3.75,1
+Female,24,Engine,4,0
+Female,23,Econs,4,1
+Female,25,Econs,2,0
+Female,18,Econs,2.35,0
+Female,24,KOE,2.56,0
+Female,20,KOE,4,1
+Female,21,Malcom,4,0
+Female,24,Malcom,4,1
+Female,20,Malcom,4,1
+Female,24,Kop,2.87,0
+Female,19,Kop,2,0
+Female,20,Kop,2,0
+Female,25,Kop,2.74,0
+Female,20,Biomedical science,3.57,1
+Female,20,Biomedical science,4,1
+Female,19,Biomedical science,4,1
+Female,25,Laws,3.93,0
+Female,21,BIT,4,1
+Female,21,BIT,2.37,1
+Female,20,BIT,2.45,0
+Male,18,Biomedical science,3.01,0
+Male,20,BIT,2,0
+Male,24,BIT,2,0
+Female,24,KOE,2,0
+Female,23,KOE,2.32,0
+Female,25,KOE,2.23,1
+Female,24,Engineering,4,0
+Female,18,Engineering,2,1
+Female,22,Engineering,3.42,1
+Female,20,Engineering,4,0
+Female,20,Engineering,4,1
+Female,23,Human Sciences ,3.49,0
+Female,22,Human Sciences ,3.7,1
+Female,24,Human Sciences ,4,1
+Female,20,Biotechnology,2.35,1
+Female,18,Engineering,3.17,0
+Female,18,Engineering,3.65,0
+Female,18,Engineering,3.29,1
+Female,20,Engineering,2,1
+Female,19,Engineering,2.93,0
+Female,25,Communication ,2.38,0
+Female,21,Communication ,2,0
+Female,25,Communication ,4,0
+Female,20,Engineering,3.37,0
+Female,18,Engineering,2,0
+Female,25,Diploma Nursing,3.32,0
+Female,23,Engineering,3.8,1
+Female,18,Engineering,2,1
+Female,22,Pendidikan Islam ,3.11,1
+Female,23,Diploma Nursing,2,1
+Female,23,Engineering,2,0
+Female,25,Pendidikan Islam ,4,1
+Female,19,Pendidikan Islam ,2,0
+Male,25,Radiography,2,1
+Male,18,Radiography,2.76,0
+Female,18,psychology,2,1
+Female,19,psychology,2.12,0
+Female,21,psychology,2.38,1
+Female,18,psychology,4,0
+Female,24,Fiqh fatwa ,4,1
+Female,23,Fiqh fatwa ,2.56,1
+Female,18,psychology,3.22,1
+Female,19,psychology,2,1
+Female,20,psychology,4,1
+Female,25,psychology,2.37,0
+Male,21,BIT,4,0
+Male,24,Engineering,2.95,0
+Male,21,Engineering,3.71,0
+Female,21,DIPLOMA TESL,3.79,1
+Female,19,DIPLOMA TESL,4,1
+Female,21,DIPLOMA TESL,2,1
+Female,24,DIPLOMA TESL,2.07,1
+Male,18,Koe,3.34,0
+Male,23,Koe,2.88,0
+Male,21,Koe,2.65,0
+Male,25,Koe,3.8,0
+Female,23,KOE,4,0
+Female,19,KOE,2.51,1
+Female,21,BENL,2.66,1
+Female,19,BENL,4,0
+Female,21,Fiqh,4,0
+Female,20,Islamic Education,3.04,0
+Female,24,BCS,2.51,0
+Female,19,BCS,3.59,1
+Female,19,BCS,4,1
+Male,23,Engineering,4,0
+Male,22,Engineering,4,1
+Female,21,Nursing ,3.19,1
+Female,23,Pendidikan Islam,4,1
+Female,25,Pendidikan Islam,2,0
+Female,22,Pendidikan Islam,3.92,1
+Male,24,Biomedical science,2.17,0
+Male,24,Biomedical science,3.24,0
+Male,19,Biomedical science,2.35,1
+Male,23,Biomedical science,3.46,1
+Male,25,Islamic education,4,1
+Male,19,BIT,3.63,1
+Male,21,BIT,3.06,0
+Female,19,Laws,4,0
+Female,18,Laws,4,0
+Male,25,Mathemathics,3.6,1
+Male,22,Mathemathics,4,1
+Male,20,Mathemathics,3.88,1
+Female,22,BCS,3.48,1
+Female,24,Engineering,2,1
+Female,21,Engineering,3.09,1
+Female,20,Psychology,4,1
+Female,23,Psychology,2,0
+Female,22,Psychology,4,1
+Female,19,Engineering,3.93,1
+Female,18,Psychology,3.54,1
+Female,18,Engineering,3.56,1
+Female,18,Engineering,3.9,0
+Female,20,Engineering,4,1
+Female,19,Psychology,4,0
+Female,25,Psychology,3.39,1
+Male,20,Irkhs,3.94,1
+Female,18,BCS,4,1
+Male,24,Engineering,4,0
+Male,18,Engineering,2,0
+Female,20,KENMS,3.19,1
+Female,25,KENMS,4,1
+Female,19,KENMS,2,1
+Male,21,BCS,2.13,0
+Female,24,Accounting ,2,1
+Female,23,Accounting ,2,1
+Female,18,Accounting ,2.36,0
+Female,21,ENM,4,0
+Female,24,ENM,2,0
+Female,23,BIT,2,0
+Female,25,BIT,4,0
+Female,19,BIT,3.28,1
+Female,21,Engineering,2.18,1
+Female,22,Engineering,2,0
+Female,25,KOE,4,1
+Female,22,BCS,4,1
+Female,22,KOE,4,1
+Female,21,KOE,2,0
+Female,24,KOE,2.23,1
+Female,23,BCS,4,0
+Female,24,Engineering,4,1
+Female,23,Engineering,3.1,1
+Female,22,BCS,4,0
+Female,19,BCS,2,1
+Female,23,BCS,2,0
+Female,18,Banking Studies,2,0
+Female,22,Banking Studies,4,0
+Female,25,Banking Studies,2.93,1
+Female,21,Engineering,4,0
+Female,24,Engineering,4,1
+Female,21,Engineering,3.15,0
+Male,24,Engineering,2.84,0
+Male,18,Engineering,3.91,1
+Female,24,BIT,4,0
+Female,23,BIT,2.23,0
+Female,21,BIT,4,1
+Female,18,Business Administration,2,1
+Female,23,Business Administration,2.78,1
+Female,18,Business Administration,2,1
+Female,18,Business Administration,2.84,0
+Male,22,BCS,4,1
+Male,18,BCS,4,0
+Male,19,BCS,2.71,1
+Male,21,BCS,4,1
+Male,19,BCS,2.07,1
+Male,21,BCS,3.07,1
+Female,20,BIT,2.22,1
+Female,22,BIT,4,1
+Female,18,Law,2,1
+Female,24,Engineering,2.14,1
+Female,21,Law,2.05,1
+Female,18,Law,4,1
+Female,18,Engineering,2.49,0
+Female,18,BIT,4,0
+Female,25,BIT,2,0
+Female,25,BIT,2.67,0
+Female,18,BIT,3.6,0
+Female,24,BIT,4,1
+Female,18,BIT,2,1
+Female,25,Engineering,2.4,0
+Female,21,Engineering,2.53,0
+Female,24,Engineering,4,1
+Female,18,Engineering,2,1
+Female,22,Engineering,4,0
+Female,20,Engineering,2.25,1
+Female,21,Engineering,4,1
+Female,21,BIT,4,1
+Female,20,Usuluddin ,2,1
+Female,24,Usuluddin ,3.43,0
+Female,22,Usuluddin ,3.89,0
+Male,21,BIT,3.94,0
+Male,19,BIT,3.97,1
+Male,23,BIT,3.36,1
+Male,24,BIT,3.51,1
+Male,23,TAASL,3.85,0
+Male,23,TAASL,2.36,1
+Male,23,TAASL,2,1
+Male,18,BCS,2.46,0
+Male,25,BCS,2.58,1
+Female,18,Engineering,3.76,1
+Female,23,Engineering,4,1
+Female,24,Engine,2.57,1
+Male,23,BCS,2.24,0
+Male,18,BCS,2,1
+Female,24,Engine,2.09,1
+Female,19,BCS,3.92,0
+Female,19,BCS,2.94,1
+Female,23,ALA,2.26,1
+Female,24,BCS,2,1
+Female,24,BCS,2,0
+Female,22,BCS,2,0
+Female,21,Biomedical science,4,1
+Female,21,Biomedical science,2,1
+Female,25,Biomedical science,3.87,0
+Female,21,Biomedical science,3.47,0
+Female,20,Biomedical science,2.05,0
+Female,21,Biomedical science,2.32,1
+Female,19,Biomedical science,2.11,1
+Female,20,koe,4,1
+Female,18,koe,3.96,1
+Female,23,koe,2.61,0
+Female,24,koe,3.45,0
+Female,20,koe,4,0
+Female,19,BCS,4,1
+Female,25,BCS,3.01,0
+Female,22,BCS,4,0
+Female,20,BCS,3.64,1
+Female,22,BCS,4,1
+Female,18,BCS,2.85,0
+Male,21,BCS,2,0
+Male,18,BCS,2.63,1
+Male,25,Kirkhs,2.45,0
+Male,21,Kirkhs,2.9,1
+Female,24,BENL,2.04,0
+Female,23,BCS,4,0
+Female,23,BCS,2.95,1
+Female,24,Benl,4,1
+Female,23,Benl,4,0
+Female,25,Benl,3.82,0
+Female,19,IT,2,1
+Female,18,IT,2,1
+Female,23,BCS,4,1
+Female,18,CTS,2,1
+Female,19,CTS,3.83,1
+Female,23,CTS,2.66,0
+Female,19,engin,2.7,1
+Female,20,engin,2.53,1
+Female,18,engin,3.08,1
+Female,18,engin,2,0
+Female,20,engin,2,1
+Female,23,Engine,2.42,0
+Female,25,Engine,4,0
+Female,24,Engine,2.28,0
+Female,23,Engine,4,1
+Female,21,Engine,2,1
+Female,22,Econs,2.38,0
+Female,21,KOE,2.83,0
+Male,19,MHSC,4,1
+Male,24,MHSC,4,0
+Female,23,Malcom,2.21,0
+Female,25,Malcom,3.86,1
+Female,23,Malcom,3.99,0
+Female,20,Kop,2,0
+Female,25,Kop,4,0
+Female,18,Biomedical science,4,0
+Female,24,Biomedical science,2.34,1
+Female,22,Biomedical science,3.6,0
+Female,18,Biomedical science,3.69,0
+Female,18,Laws,2,1
+Female,24,Laws,3.64,1
+Female,20,BIT,4,0
+Male,23,BIT,4,0
+Male,25,BIT,4,0
+Female,25,KOE,2,0
+Female,23,KOE,3.83,0
+Female,20,KOE,2.31,0
+Female,23,Engineering,3.72,1
+Female,19,Human Sciences ,2,0
+Female,24,Human Sciences ,3.89,1
+Female,20,Human Sciences ,2.46,1
